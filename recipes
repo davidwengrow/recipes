@@ -1,2 +1,5 @@
 Love garlic
 so delicious
+pizza = "garlic + delicious"
+pizza = x
+x + pizza
